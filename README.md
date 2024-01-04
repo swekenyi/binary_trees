@@ -1,4 +1,4 @@
-# 0x18. C - Dynamic libraries
+# 0x1D. C - Binary trees
 
 This Project was done during Full Stack Software Engineering studies at ALX school The aim is to learn about what is a binary tree, the different traversal methods to go through a binary tree and the different types of binary trees (complete, full, perfect and balanced). using **C language**
 
